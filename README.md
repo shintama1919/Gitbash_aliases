@@ -1,0 +1,2 @@
+# Gitbash_aliases
+Windows版Gitbashに追加した便利Aliasを記載します
